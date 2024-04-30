@@ -1,0 +1,2 @@
+# PoseNames.msg
+string[] poses

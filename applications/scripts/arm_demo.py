@@ -1,6 +1,7 @@
 #! /usr/bin/env python
 
 import robot_api
+from robot_api.arm_joints import ArmJoints
 import rospy
 
 
